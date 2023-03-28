@@ -1,1 +1,3 @@
 # Train-Carriage-Management-System
+
+This program is a train carriage management system written in C. It allows the user to manage and modify a train by adding or removing carriages, as well as checking the train's statistics. The program utilizes structures and enums to keep track of the train's carriages and their respective types (passenger, sleeper, or diner), capacities, and positions. The program also checks for errors and conditions before inserting new carriages and printing statistics. The user interacts with the program via a menu system that displays the available actions (print train, add carriage, print stats, exit).
